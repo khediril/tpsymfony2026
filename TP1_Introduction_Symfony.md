@@ -1010,21 +1010,4 @@ git checkout main
 git pull origin main
 ```
 
----
 
-## ✅ Critères d'évaluation
-
-| Critère | Points |
-|---------|--------|
-| Préparation de l'environnement (outils installés et fonctionnels) | /2 |
-| Installation et configuration correcte du projet | /3 |
-| Contrôleurs et routes fonctionnels | /4 |
-| Templates Twig avec héritage et boucles | /4 |
-| Entité Doctrine et persistance des données | /3 |
-| Exercice de synthèse (entité Tâche) | /2 |
-| Réponses aux questions | /2 |
-| **Total** | **/20** |
-
----
-
-> **📌 Rendu** : À la fin de la séance, fournissez le **lien vers votre dépôt GitHub** sur la plateforme de dépôt prévue. Assurez-vous que toutes vos branches ont été fusionnées dans `main`. Incluez un fichier `REPONSES.md` contenant vos réponses aux questions.
