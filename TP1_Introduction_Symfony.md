@@ -253,7 +253,7 @@ git push -u origin main
 Lancez le serveur local intégré au Symfony CLI :
 
 ```bash
-symfony server:start
+symfony server:start -d
 ```
 
 > **📝 Note** : Le serveur démarre par défaut sur **https://127.0.0.1:8000** (avec support HTTPS automatique). Vous pouvez aussi utiliser l'option `-d` pour le lancer en arrière-plan : `symfony server:start -d`.
